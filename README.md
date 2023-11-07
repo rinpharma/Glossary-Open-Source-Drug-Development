@@ -1,8 +1,8 @@
 # Glossary-Open-Source-Drug-Development
 Glossary for Open Source Drug Development efforts
 
-{falcon}
-The {falcon} initiative is an industry collaborative effort under {pharmaverse} that unites Boehringer Ingelheim, Moderna, Roche, and Sanofi with the aspiration of building and open-sourcing a comprehensive catalog of harmonized tables, listings, and graphs (TLGs) for clinical study reporting. Drawing inspiration from the FDA Standard Safety Tables and Figures Integrated Guide (https://downloads.regulations.gov/FDA-2022-N-1961-0046/attachment_1.pdf), the {falcon} initiative has successfully developed and open-sourced 11 templates to date. 
+{falcon} 
+The {falcon} initiative is an industry collaborative effort under {pharmaverse} that unites Boehringer Ingelheim, Moderna, Roche, and Sanofi with the aspiration of building and open-sourcing a comprehensive catalog of harmonized tables, listings, and graphs (TLGs) for clinical study reporting. Drawing inspiration from the FDA Standard Safety Tables and Figures Integrated Guide (https://downloads.regulations.gov/FDA-2022-N-1961-0046/attachment_1.pdf), the {falcon} initiative has successfully developed and open-sourced 11 templates to date.  
 https://pharmaverse.github.io/falcon/
 
 Nest
